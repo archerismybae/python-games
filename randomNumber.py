@@ -22,3 +22,5 @@ if (guess == number):
     print("Good job, " + name + "! You guessed the right number in " + str(guessesTaken+1) + " tries.")
 else:
     print("Nope, the number I had in mind was " + str(number))
+
+print("Game over.")
